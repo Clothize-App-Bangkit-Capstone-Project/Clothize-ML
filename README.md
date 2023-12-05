@@ -1,7 +1,7 @@
 # Clothize-ML
 
 This is repo for body measurement feature in CLothize app.
-
+TEST
 This feature is using CNN model to predict keypoints from human image. The output from model is an array with 3k lenght, where k is number of keypoints. THe first two is location on x and y and the third is visibility. The output then subracted with corresponding keypoints to get body measurement that used to make clothes.
 
 ## About Clothize
